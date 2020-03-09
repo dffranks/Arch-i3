@@ -1,0 +1,11 @@
+~/*
+!~/.config
+~/.config/*
+!~/.config/i3
+!~/.config/rofi
+!~/.config/rezzy.sh
+!~/.xinitrc
+!~/.Xresources
+!~/.bashrc
+!~/.Xauthority
+!~/.bash_profile
